@@ -1,4 +1,4 @@
 # hello-world
 repository
 
-Hi, my name is Lucy
+my name is lucy
